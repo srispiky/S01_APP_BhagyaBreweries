@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\BhagyBrews\\BhagyaBrews\\BhagyaBrews.csproj",
+      "projectUniqueName": "D:\\GitHub\\Bhagya_Breweries\\BhagyaBrews.csproj",
       "projectName": "BhagyaBrews",
-      "projectPath": "D:\\Git\\BhagyBrews\\BhagyaBrews\\BhagyaBrews.csproj",
+      "projectPath": "D:\\GitHub\\Bhagya_Breweries\\BhagyaBrews.csproj",
       "packagesPath": "C:\\Users\\Sri\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\BhagyBrews\\BhagyaBrews\\obj\\",
+      "outputPath": "D:\\GitHub\\Bhagya_Breweries\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
