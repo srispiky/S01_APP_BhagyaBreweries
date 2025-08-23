@@ -1,0 +1,43 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('/Images/TeaBackground.png'); /* path relative to wwwroot */
+    background-size: cover; /* Makes the image cover the whole page */
+    background-repeat: no-repeat; /* Prevents tiling */
+    background-attachment: fixed; /* Keeps it fixed when scrolling */
+    background-position: center; /* Center the image */
+    font-family: Arial, sans-serif;
+    color: white; /* Adjust text color for better visibility */
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+    nav a:hover {
+        text-decoration: underline;
+    }
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

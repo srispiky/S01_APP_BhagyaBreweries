@@ -1,0 +1,7 @@
+D:\Git\BhagyBrews\BhagyaBrews\obj\Release\net8.0\PubTmp\Out\BhagyaBrews.exe
+D:\Git\BhagyBrews\BhagyaBrews\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Git\BhagyBrews\BhagyaBrews\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Git\BhagyBrews\BhagyaBrews\obj\Release\net8.0\PubTmp\Out\BhagyaBrews.dll
+D:\Git\BhagyBrews\BhagyaBrews\obj\Release\net8.0\PubTmp\Out\BhagyaBrews.deps.json
+D:\Git\BhagyBrews\BhagyaBrews\obj\Release\net8.0\PubTmp\Out\BhagyaBrews.runtimeconfig.json
+D:\Git\BhagyBrews\BhagyaBrews\obj\Release\net8.0\PubTmp\Out\BhagyaBrews.pdb

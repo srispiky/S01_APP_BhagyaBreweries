@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nknfK1ZaINs=",
+  "success": true,
+  "projectFilePath": "D:\\Git\\BhagyBrews\\BhagyaBrews\\BhagyaBrews.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
