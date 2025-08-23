@@ -41,3 +41,11 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.product-page {
+    background-image: url('/Images/TeaBackground.png'); /* path relative to wwwroot */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}

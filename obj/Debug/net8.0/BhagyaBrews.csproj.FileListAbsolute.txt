@@ -65,3 +65,4 @@ D:\GitHub\Bhagya_Breweries\obj\Debug\net8.0\refint\BhagyaBrews.dll
 D:\GitHub\Bhagya_Breweries\obj\Debug\net8.0\BhagyaBrews.pdb
 D:\GitHub\Bhagya_Breweries\obj\Debug\net8.0\BhagyaBrews.genruntimeconfig.cache
 D:\GitHub\Bhagya_Breweries\obj\Debug\net8.0\ref\BhagyaBrews.dll
+D:\GitHub\Bhagya_Breweries\bin\Debug\net8.0\products.json
