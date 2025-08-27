@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\GitHub\\Bhagya_Breweries\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|solutionrelative:products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|solutionrelative:css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|solutionrelative:products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|solutionrelative:about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|solutionrelative:products.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|solutionrelative:css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|solutionrelative:header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|solutionrelative:footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|solutionrelative:products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF877950-8A8C-4A35-B545-3CDDA05471B3}|BhagyaBrews.csproj|d:\\github\\bhagya_breweries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "about.html",
+              "DocumentMoniker": "D:\\GitHub\\Bhagya_Breweries\\about.html",
+              "RelativeDocumentMoniker": "about.html",
+              "ToolTip": "D:\\GitHub\\Bhagya_Breweries\\about.html",
+              "RelativeToolTip": "about.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-27T20:04:14.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "footer.html",
+              "DocumentMoniker": "D:\\GitHub\\Bhagya_Breweries\\footer.html",
+              "RelativeDocumentMoniker": "footer.html",
+              "ToolTip": "D:\\GitHub\\Bhagya_Breweries\\footer.html",
+              "RelativeToolTip": "footer.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-27T18:37:09.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "header.html",
+              "DocumentMoniker": "D:\\GitHub\\Bhagya_Breweries\\header.html",
+              "RelativeDocumentMoniker": "header.html",
+              "ToolTip": "D:\\GitHub\\Bhagya_Breweries\\header.html",
+              "RelativeToolTip": "header.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-27T18:37:01.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "products.html",
               "DocumentMoniker": "D:\\GitHub\\Bhagya_Breweries\\products.html",
               "RelativeDocumentMoniker": "products.html",
               "ToolTip": "D:\\GitHub\\Bhagya_Breweries\\products.html",
               "RelativeToolTip": "products.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-08-23T22:06:52.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "products.json",
               "DocumentMoniker": "D:\\GitHub\\Bhagya_Breweries\\products.json",
               "RelativeDocumentMoniker": "products.json",
@@ -60,33 +111,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "D:\\GitHub\\Bhagya_Breweries\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "D:\\GitHub\\Bhagya_Breweries\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-08-23T21:53:44.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Style.css",
               "DocumentMoniker": "D:\\GitHub\\Bhagya_Breweries\\Css\\Style.css",
               "RelativeDocumentMoniker": "Css\\Style.css",
               "ToolTip": "D:\\GitHub\\Bhagya_Breweries\\Css\\Style.css",
               "RelativeToolTip": "Css\\Style.css",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-08-23T21:53:22.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\Bhagya_Breweries\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

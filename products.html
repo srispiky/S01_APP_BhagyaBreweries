@@ -3,16 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Our Products</title>
-    <style>
-        /* (same CSS as above) */
-    </style>
+    <title>Bhagya Beverage</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
-    <h1>Our Products</h1>
-    <div class="products" id="products"></div>
-
+<body class="product-page">
+   <!-- <h1>Our Products</h1>-->
+    <div id="header-container"></div>
+    <section>
+        <div class="products" id="products"></div>
+        <img src="images/Product01.jpg" alt="Shop B anner" style="width:45%">
+    </section>
+    <div id="footer-container"></div>
     <script>
+        function loadComponent(id, url, callback) {
+            fetch(url)
+                .then(response => response.text())
+                .then(html => {
+                    document.getElementById(id).innerHTML = html;
+                    if (callback) callback();
+                });
+        }
+
+        window.onload = function () {
+            loadComponent('header-container', 'header.html', function () {
+                // Set dynamic heading after header is loaded
+                const heading = document.getElementById('page-heading');
+                if (heading) heading.textContent = 'Our Products';
+            });
+            loadComponent('footer-container', 'footer.html');
+        };
         fetch('products.json')
             .then(response => response.json())
             .then(data => {
@@ -21,8 +40,8 @@
                     const div = document.createElement('div');
                     div.classList.add('product');
                     div.innerHTML = `<img src="${p.img}" alt="${p.name}">
-                                     <h3>${p.name}</h3>
-                                     <p>${p.desc}</p>`;
+                                                         <h3>${p.name}</h3>
+                                                         <p>${p.desc}</p>`;
                     container.appendChild(div);
                 });
             });

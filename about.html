@@ -1,10 +1,43 @@
 ﻿<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bhagya Beverage</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body class="about-page">
+    <div id="header-container"></div>
+    <section>
+        <!--<h2>About Bhagya Tea</h2>-->
+        <p>
+            Bhagya Tea is dedicated to bringing you the finest tea experience. Our journey began with a passion for quality and a commitment to spreading warmth and happiness in every cup.
+        </p>
+        <p>
+            We source the best tea leaves and blend them with care, ensuring every sip is rich, flavorful, and memorable. Our mission is to create moments of togetherness and joy for families and friends.
+        </p>
+        <p>
+            Discover the story behind Bhagya Tea and join us in celebrating the art of tea making.
+        </p>
+    </section>
+    <div id="footer-container"></div>
+    <script>
+        function loadComponent(id, url, callback) {
+            fetch(url)
+                .then(response => response.text())
+                .then(html => {
+                    document.getElementById(id).innerHTML = html;
+                    if (callback) callback();
+                });
+        }
 
+        window.onload = function () {
+            loadComponent('header-container', 'header.html', function () {
+                const heading = document.getElementById('page-heading');
+                if (heading) heading.textContent = 'About Bhagya Tea';
+            });
+            loadComponent('footer-container', 'footer.html');
+        };
+    </script>
 </body>
 </html>

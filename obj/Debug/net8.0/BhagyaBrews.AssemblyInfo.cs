@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BhagyaBrews")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a4dfb3c6324e3366845528484ad3b17ef649793")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+345c2a2ab3803bf4b9e2cdc2c4eb1ac3556cbc59")]
 [assembly: System.Reflection.AssemblyProductAttribute("BhagyaBrews")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BhagyaBrews")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
