@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Classic Tea",
+    "desc": "Rich aroma & strong flavor – 500g",
+    "img": "Images/Product01.jpeg"
+  //},
+  //{
+  //  "name": "Green Tea",
+  //  "desc": "Refreshing & healthy – 250g",
+  //  "img": "Images/green-tea.jpg"
+  //},
+  //{
+  //  "name": "Masala Tea",
+  //  "desc": "Spiced Indian tea – 500g",
+  //  "img": "Images/masala-tea.jpg"
+  //}
+]

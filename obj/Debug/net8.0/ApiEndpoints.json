@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "ContactController",
+    "Method": "Post",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ContactFormModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

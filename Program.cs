@@ -2,6 +2,7 @@ using Microsoft.Extensions.FileProviders;
 using System.IO;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers();
 var app = builder.Build();
 
 // Tell ASP.NET Core to look for default files like index.html
@@ -19,5 +20,7 @@ app.UseStaticFiles(new StaticFileOptions
         Path.Combine(Directory.GetCurrentDirectory())),
     RequestPath = ""
 });
+
+app.MapControllers();
 
 app.Run();

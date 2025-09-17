@@ -1,2 +1,2 @@
-# S01_APP_BhagyaBreweries
-Bhagya Breweries project files 
+# S01_APP_BhagyaBeverages
+Bhagya Beverages project files 
